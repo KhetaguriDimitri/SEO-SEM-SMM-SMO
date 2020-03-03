@@ -1,0 +1,34 @@
+<!--Search engines Google, DuckDuckGo, Yandex, Bing & Others ... -->
+
+<title>Georgia</title>
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta property="og:title" content='Georgia'/>
+<meta property="og:description" content='What is Georgia'/>
+<meta property="og:site_name" content='Georgia's Name/>
+<meta property="og:url"  content='https://example.me'/>
+<meta property="og:locale" content='ka_GE'/>
+<meta property="og:type" content='Website'/>
+<meta property="og:image:type" content='image/jpeg'/>
+<meta property="og:image" content="https://Example.me/***/***" />
+<meta property="og:image:secure_url" content='https://Example.me/***/***'/>
+
+<meta name="twitter:site" content='@LinkTwitter'/>
+<meta name="twitter:card" content='summary'/>
+<meta name="twitter:title" content='About Twitter'/>
+<meta name="twitter:description" content='About Twitter'/>
+
+<meta name="robots" content='all'/>
+<meta name="keywords" content='Keywords Georgia'/>
+<meta name="description" content='What is Georgia'/>
+<meta name="author" content='Who is Author | Dimitri Khetaguri'/>
+
+<!--Search engines Google, DuckDuckGo, Yandex & Others ... -->
+
+
+<!-- Photo Size -->
+<meta property="og:image:secure_url" content="Location" />
+<meta property="og:image:type" content="image/png" />
+<meta property="og:image:width" content="Size X" />
+<meta property="og:image:height" content="Size Y" />
+<!-- Photo Size -->
