@@ -25,7 +25,6 @@
 
 <!--Search engines Google, DuckDuckGo, Yandex & Others ... -->
 
-
 <!-- Photo Size -->
 <meta property="og:image:secure_url" content="Location" />
 <meta property="og:image:type" content="image/png" />
@@ -59,4 +58,3 @@
   }
 }
 </script>
-
