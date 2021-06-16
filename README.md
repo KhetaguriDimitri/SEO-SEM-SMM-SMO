@@ -1,3 +1,8 @@
+# Мета-теги веб-сайтов для маркетинга и социальных сетей
+# Meta Tags Website for Digital Marketing & Social Networks
+
+ ***Search Engine Optimizations***
+
 # First of all >> ROBOTS.TXT
 
 <p>User-agent: * </p> <p>Allow: </p> <p>Sitemap: https://Website.ge/sitemap.xml</p> <p>Sitemap: https://www.Website.ge/sitemap.xml</p>
@@ -30,8 +35,6 @@
 # SEO-SEM-SMM-SMO
 
 Website Meta Tags For Marketing | Engine | Networks | Social
-
-Мета-теги веб-сайтов для маркетинга и социальных сетей
 
 Engines
   • Google
