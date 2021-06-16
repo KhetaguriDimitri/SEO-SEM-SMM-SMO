@@ -1,9 +1,6 @@
 # First of all >> ROBOTS.TXT
 
-<p>User-agent: * </p><p>Allow: </p>
-
-<p>Sitemap: https://Website.ge/sitemap.xml</p>
-<p>Sitemap: https://www.Website.ge/sitemap.xml</p>
+<p>User-agent: * </p> <p>Allow: </p> <p>Sitemap: https://Website.ge/sitemap.xml</p> <p>Sitemap: https://www.Website.ge/sitemap.xml</p>
 
 # Google Search Console & Analytics & Tag Manager
 
