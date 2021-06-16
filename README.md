@@ -1,5 +1,5 @@
-<p>Мета-теги веб-сайтов для маркетинга и социальных сетей</p>
-<p>Website Meta Tags for Marketing and Social Media</p>
+:heavy_check_mark: <p>Мета-теги веб-сайтов для маркетинга и социальных сетей</p>
+:heavy_check_mark: <p>Website Meta Tags for Marketing and Social Media</p>
 
 ***Search Engine Optimizations***
 
