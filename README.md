@@ -3,7 +3,7 @@
 
 :ballot_box_with_check: ***Search Engine Optimizations***
 
-# First of all >> ROBOTS.TXT
+# First of all >> ROBOTS.TXT :registered:
 
 <p>User-agent: * </p> <p>Allow: </p> <p>Sitemap: https://Website.ge/sitemap.xml</p> <p>Sitemap: https://www.Website.ge/sitemap.xml</p>
 
