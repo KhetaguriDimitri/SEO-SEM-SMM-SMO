@@ -1,3 +1,5 @@
+[link to Google!](https://search.google.com/search-console/about)
+
 # SEO-SEM-SMM-SMO
 
 Website Meta Tags For Marketing | Engine | Networks | Social
