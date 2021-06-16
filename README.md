@@ -1,6 +1,6 @@
 # First of all >> ROBOTS.TXT
 
-<p>User-agent: * </P>
+<a>User-agent: * </a>
 <p>Allow: </p>
 
 <p>Sitemap: https://Website.ge/sitemap.xml</p>
