@@ -1,7 +1,7 @@
 <p> :heavy_check_mark:  Мета-теги веб-сайтов для маркетинга и социальных сетей</p>
 <p> :heavy_check_mark:  Website Meta Tags for Marketing and Social Media</p>
 
-***Search Engine Optimizations***
+:ballot_box_with_check: ***Search Engine Optimizations***
 
 # First of all >> ROBOTS.TXT
 
