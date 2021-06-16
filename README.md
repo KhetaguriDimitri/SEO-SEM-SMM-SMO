@@ -3,8 +3,8 @@
 User-agent: *
 Allow:
 
-Sitemap: https://Website.ge/sitemap.xml
-Sitemap: https://www.Website.ge/sitemap.xml
+<p>Sitemap: https://Website.ge/sitemap.xml</p>
+<p>Sitemap: https://www.Website.ge/sitemap.xml</p>
 
 # Google Search Console & Analytics & Tag Manager
 
@@ -43,9 +43,11 @@ Engines
   • DuckDuckGo
   • Yahoo
   • Yandex
+  • Microsoft
  
  Social Networks
   • Facebook
+  • Instagram
   • Twitter
   • LinkedIn
   • Telegram
