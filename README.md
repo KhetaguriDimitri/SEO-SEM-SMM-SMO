@@ -7,7 +7,7 @@
 
 <p>User-agent: * </p> <p>Allow: </p> <p>Sitemap: https://Website.ge/sitemap.xml</p> <p>Sitemap: https://www.Website.ge/sitemap.xml</p>
 
-# Google Search Console & Analytics & Tag Manager
+# Google Search Console & Analytics & Tag Manager :globe_with_meridians:
 
 <p>Check out <a href="https://search.google.com/search-console/about" target="_blank" > Google Search Console</a></p>
 
@@ -15,7 +15,7 @@
 
 <p>Check out <a href="https://marketingplatform.google.com/about/tag-manager" target="_blank" > Tag Manager</a></p>
 
-# Bing | Microsoft | Yandex
+# Bing | Microsoft | Yandex :gear:
 
 <p>Check out <a href="https://www.bing.com/webmasters/about" target="_blank" > Bing Webmaster</a></p>
 
@@ -23,7 +23,7 @@
 
 <p>Check out <a href="https://metrika.yandex.ru/promo?" target="_blank" > Yandex Metrika</a></p>
 
-# Facebook | Twitter | Linked In
+# Facebook | Twitter | Linked In :busts_in_silhouette:
 
 <p>Check out <a href="https://developers.facebook.com/tools/debug/" target="_blank" > Facebook Debug</a></p>
 
