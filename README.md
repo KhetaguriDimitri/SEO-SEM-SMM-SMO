@@ -1,4 +1,4 @@
-<p>Check out <a href="https://search.google.com/search-console/about" target="_blank" rel="noopener noreferrer">Google</a>.</p>
+<p>Check out <a href="https://search.google.com/search-console/about" target="_blank" rel="noopener noreferrer">Google Search Console</a>.</p>
 
 # SEO-SEM-SMM-SMO
 
