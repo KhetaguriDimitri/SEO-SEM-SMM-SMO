@@ -1,7 +1,7 @@
 # Мета-теги веб-сайтов для маркетинга и социальных сетей
 # Website Meta Tags for Marketing and Social Media
 
- ***Search Engine Optimizations***
+<center> ***Search Engine Optimizations*** </center>
 
 # First of all >> ROBOTS.TXT
 
