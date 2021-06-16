@@ -1,6 +1,4 @@
-[link to Google!](https://search.google.com/search-console/about)
-
-<a href="https://search.google.com/search-console/about" target="_blank">Google</a>
+<p>Check out <a href="https://search.google.com/search-console/about" target="_blank" rel="noopener noreferrer">Google</a>.</p>
 
 # SEO-SEM-SMM-SMO
 
