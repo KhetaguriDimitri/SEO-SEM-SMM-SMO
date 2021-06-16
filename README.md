@@ -32,7 +32,7 @@
 <p>Check out <a href="https://www.linkedin.com/post-inspector/" target="_blank" > LinkedIn </a></p>
 
 
-# SEO-SEM-SMM-SMO
+# SEO-SEM-SMM-SMO :world_map:
 
 Website Meta Tags For Marketing | Engine | Networks | Social
 
