@@ -1,3 +1,11 @@
+# First of all >> ROBOTS.TXT
+
+User-agent: *
+Allow:
+
+Sitemap: https://Website.ge/sitemap.xml
+Sitemap: https://www.Website.ge/sitemap.xml
+
 # Google Search Console & Analytics & Tag Manager
 
 <p>Check out <a href="https://search.google.com/search-console/about" target="_blank" > Google Search Console</a></p>
@@ -21,8 +29,6 @@
 <p>Check out <a href="https://cards-dev.twitter.com/validator" target="_blank" > Twitter </a></p>
 
 <p>Check out <a href="https://www.linkedin.com/post-inspector/" target="_blank" > LinkedIn </a></p>
-
-
 
 
 # SEO-SEM-SMM-SMO
