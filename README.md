@@ -1,5 +1,5 @@
 # Мета-теги веб-сайтов для маркетинга и социальных сетей
-# Meta Tags Website for Digital Marketing & Social Networks
+# Website Meta Tags for Marketing and Social Media
 
  ***Search Engine Optimizations***
 
