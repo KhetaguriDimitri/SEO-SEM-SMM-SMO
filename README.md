@@ -52,5 +52,3 @@ Engines
   • LinkedIn
   • Telegram
   • WhatsApp
-
-[img]https://i.imgur.com/JWGwiok.jpg[/img]
