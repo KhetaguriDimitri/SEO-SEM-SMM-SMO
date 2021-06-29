@@ -1,4 +1,3 @@
-![alt text](https://imgur.com/JWGwiok)
 
 <p> :heavy_check_mark:  Мета-теги веб-сайтов для маркетинга и социальных сетей</p>
 <p> :heavy_check_mark:  Website Meta Tags for Marketing and Social Media</p>
@@ -53,3 +52,5 @@ Engines
   • LinkedIn
   • Telegram
   • WhatsApp
+
+![alt text](https://imgur.com/JWGwiok)
