@@ -2,9 +2,13 @@
 
 ## Supported Versions
 
-Use this section to tell people about which versions of your project are
-currently being supported with security updates.
+Search Engine Optimization Progress... 
 
-| Version | Supported          |
+| Years   | SEO Working        |
 | ------- | ------------------ |
 | 2018    | :white_check_mark: |
+| 2019    | :white_check_mark: |
+| 2020    | :white_check_mark: |
+| 2021    | :white_check_mark: |
+| 2022    | :white_check_mark: |
+| 2023    |                    |
