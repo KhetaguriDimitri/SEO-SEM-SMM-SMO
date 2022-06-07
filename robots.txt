@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /media/terms-and-conditions.pdf
+Disallow: /media/
+
+Sitemap: https://site.ge/sitemap.xml
+Sitemap: https://www.site.ge/sitemap.xml
