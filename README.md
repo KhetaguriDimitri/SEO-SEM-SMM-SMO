@@ -7,7 +7,12 @@
 # First of all >> ROBOTS.TXT :registered:
 
 <p>User-agent: * </p> <p>Allow: </p> <p>Sitemap: https://Website.ge/sitemap.xml</p> <p>Sitemap: https://www.Website.ge/sitemap.xml</p>
-
+<p>
+  <Example Block and allow Bots>
+User-agent: *
+Allow: /media/terms-and-conditions.pdf
+Disallow: /media/
+</p>
 # Google Search Console & Analytics & Tag Manager :globe_with_meridians:
 
 <p>Check out <a href="https://search.google.com/search-console/about" target="_blank" > Google Search Console</a></p>
