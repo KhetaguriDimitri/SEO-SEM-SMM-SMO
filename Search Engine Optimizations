@@ -1,8 +1,11 @@
-<!--Search engines Google, DuckDuckGo, Yandex, Bing & Yahoo ... -->
-
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  
 <title>G30RG14N</title>
 
-<meta name="viewport" content="width=device-width, initial-scale=1">
 <meta property="og:title" content='Georgia'/>
 <meta property="og:description" content='What is Georgia'/>
 <meta property="og:site_name" content='Georgia's Name/>
@@ -57,3 +60,4 @@
   }
 }
 </script>
+	</head>
