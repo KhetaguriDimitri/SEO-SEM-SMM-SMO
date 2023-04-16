@@ -1,11 +1,10 @@
 User-agent:
 Allow: *
+  Sitemap: https://site.ge/sitemap.xml
+  Sitemap: https://www.site.ge/sitemap.xml
 
-Sitemap: https://site.ge/sitemap.xml
-Sitemap: https://www.site.ge/sitemap.xml
 
-<hr>
+<!-- if you want block bots/clawns -->
 
-<!-- if you want block bots -->
 Allow: /media/terms-and-conditions.pdf
-Disallow: /media/
+  Disallow: /media/
