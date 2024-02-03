@@ -12,4 +12,5 @@ Search Engine Optimization Progress...
 | 2021    | :white_check_mark: |
 | 2022    | :white_check_mark: |
 | 2023    | :white_check_mark: |
-| 2024    |                    |
+| 2024    | :white_check_mark: |
+| 2025    |                    |
